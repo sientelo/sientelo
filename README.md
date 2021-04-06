@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sientelo
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at https://paulmurray.pm
 
 <!---
