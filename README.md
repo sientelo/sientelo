@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sientelo
+- 👋 Hi, I’m Paul
 - 👀 I’m interested in Linux
 - 📫 Reach me at https://paulmurray.pm
 
